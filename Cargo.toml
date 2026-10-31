@@ -1,0 +1,12 @@
+[package]
+name = "rustshot"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+eframe = "0.31"
+screenshots = "0.8"
+image = "0.25"
+arboard = "3.4"
+chrono = "0.4"
+dirs = "6"
